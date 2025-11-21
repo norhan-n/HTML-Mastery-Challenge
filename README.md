@@ -7,7 +7,7 @@ It tells the browser what each part of the page means, like headings, paragraphs
 I tested my `index.html` file using the W3C Markup Validator.  
 The page passed with 0 errors.
 
-![W3C Validator Result] (C:\Task1.mega\assests\validator-result.jpeg) 
+![W3C Validator Result] (assests\validator-result.jpeg) 
 
 
 3. HTML Entities Used
@@ -29,4 +29,5 @@ I used a description list `<dl>` in the Skills section because each skill has:
 - A description (what I can do with this skill) → `<dd>`
 
 This makes more sense semantically than a normal unordered list `<ul>`,  
+
 because skills are not just bullet points, they are pairs of (name + explanation).
